@@ -1,2 +1,2 @@
 console.log("Hello Git!")
-let a =10;
+let a =50;
